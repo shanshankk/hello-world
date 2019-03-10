@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+I want to learn something about autoencoder of Deep Learning!
